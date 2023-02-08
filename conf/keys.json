@@ -1,0 +1,6 @@
+{
+  "access_key": "xxxxxxxxxx",
+  "secret_key": "xxxxxxxxxxxxxxxxxxxxx",
+  "endpoint":  "https://object.auckland.ac.nz",
+  "bucket": "moa"
+}
